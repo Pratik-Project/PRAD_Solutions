@@ -30,7 +30,7 @@ public class JDBCDynamicDemo {
 			
 			int j = stmt.executeUpdate();
 			
-			System.out.println("Record is inserted."+ j);
+		System.out.println("Record is inserted."+ j);
 			
 //			while(rs.next()) {
 //				System.out.print(rs.getString(1)+" ");
@@ -53,3 +53,4 @@ public class JDBCDynamicDemo {
 	}
 
 }
+akshay
